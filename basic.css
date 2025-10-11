@@ -1,0 +1,15 @@
+body {
+      font-family: Arial, sans-serif;
+    }
+ul {
+      font-family: Arial, sans-serif;
+    }
+p {
+    display: block;
+    font-size: .83em;
+    margin-top: 1.67em;
+    margin-bottom: 1.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
